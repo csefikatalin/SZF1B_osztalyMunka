@@ -1,0 +1,11 @@
+body{
+    background-image: url(kepek/hatter.jpg);
+
+}
+main{
+    background-color: burlywood;
+}
+
+*{
+    padding: 10px;
+}
